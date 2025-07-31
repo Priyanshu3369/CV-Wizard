@@ -1,6 +1,9 @@
 <div align="center">
   <h2>🚀 AI Resume Analyzer</h2>
   <p>Build an AI-powered resume matching platform with seamless storage, smart AI feedback, and clean UI — all in your browser!</p>
+  <a href="https://cv-wizard-khaki.vercel.app/" target="_blank">
+    <strong>Live Demo →</strong>
+  </a>
 </div>
 
 ---
